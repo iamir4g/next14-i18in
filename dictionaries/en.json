@@ -1,0 +1,11 @@
+{
+  "page": {
+    "home": {
+      "header": {
+        "title": "Hello world",
+        "description": "lorem",
+        "button": "Start"
+      }
+    }
+  }
+}
